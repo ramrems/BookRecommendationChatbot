@@ -122,7 +122,8 @@ kitap-oneri-sistemi/
 - "Yüksek puanlı romantik kitaplar nelerdir?"
 - "500 sayfa altındaki kısa kitaplar önerir misin?"
 - "Stephen King'in kitapları hakkında bilgi verir misin?"
-![alt text](<Ekran görüntüsü 2025-06-28 214231.png>)
+  
+![Ekran görüntüsü 2025-06-28 214231](https://github.com/user-attachments/assets/2072886e-35c5-4d04-b777-2ce979c4e395)
 
 ## 🔧 Teknik Detaylar
 
