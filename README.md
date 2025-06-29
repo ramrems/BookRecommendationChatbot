@@ -136,9 +136,9 @@ kitap-oneri-sistemi/
 5. **Generation**: Gemini 1.5 Flash ile öneriler
 
 # Model Karşılaştırması
-Proje geliştirme sürecinde farklı LLM modelleri test edilmiş ancak API hataları nedeniyle karşılaştırma çalışması tamamlanamamıştır. Mevcut implementasyonda Google Gemini 1.5 Flash modeli kullanılmaktadır.
+Proje geliştirme sürecinde farklı LLM modelleri denenmiş ancak API hataları nedeniyle karşılaştırma çalışması tamamlanamamıştır. Openai ve Gemini'nin 1.5-flash modeli dışındaki modeller api hatası vermiştir. Mevcut implementasyonda Google Gemini 1.5 Flash modeli kullanılmaktadır.
 # ⚠️ Notlar
 
-Excel dosyalarından biri boyut kısıtlamaları nedeniyle repository'de bulunmamaktadır
-Model karşılaştırması API erişim sorunları nedeniyle tamamlanamamıştır
-Sistem şu anda yalnızca Google Gemini API'si ile çalışmaktadır
+Excel dosyalarından biri boyut kısıtlamaları nedeniyle repository'de bulunmamaktadır.
+Oluşturulan chroma_db klasörü de büyük boyutlu olduğu için paylaşılamamıştır.
+
