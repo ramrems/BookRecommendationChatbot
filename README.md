@@ -78,7 +78,7 @@ data/
 ### Adım 4: Vektör veritabanını oluşturun
 
 ```bash
-python data_processor.py
+python model/gemini_model.py
 ```
 
 Bu işlem birkaç dakika sürebilir. Tamamlandığında `./chroma_db` klasörü oluşturulacaktır.
@@ -86,7 +86,7 @@ Bu işlem birkaç dakika sürebilir. Tamamlandığında `./chroma_db` klasörü 
 ### Adım 5: Uygulamayı çalıştırın
 
 ```bash
-streamlit run app.py
+streamlit run app/streamlit_app.py
 ```
 
 ## 📁 Proje Yapısı
